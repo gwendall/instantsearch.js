@@ -1,10 +1,14 @@
-[![instantsearch.js logo][readme-logo]][logo-url]
+[![instantsearch.js logo][readme-logo]][website-url]
+
+[![Version][version-svg]][package-url] [![Build Status][travis-svg]][travis-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
 
 **instantsearch.js** is a library of UI widgets to help you build the best instant-search experience with [Algolia's Hosted Search API](https://www.algolia.com/?utm_medium=social-owned&utm_source=GitHub&utm_campaign=InstantSearch%20repository).
 
 Have a look at the website: [https://community.algolia.com/instantsearch.js/][instantsearch-website].
 
-[![Version][version-svg]][package-url] [![Build Status][travis-svg]][travis-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+## Demo
+
+[![instantsearch.js animated demo][readme-animated]][website-url]
 
 [travis-svg]: https://img.shields.io/travis/algolia/instantsearch.js/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/algolia/instantsearch.js
@@ -15,7 +19,8 @@ Have a look at the website: [https://community.algolia.com/instantsearch.js/][in
 [version-svg]: https://img.shields.io/npm/v/instantsearch.js.svg?style=flat-square
 [package-url]: https://npmjs.org/package/instantsearch.js
 [readme-logo]: ./docs/readme-logo.png
-[logo-url]: https://community.algolia.com/instantsearch.js/
+[readme-animated]: ./docs/readme-animated.gif
+[website-url]: https://community.algolia.com/instantsearch.js/
 [instantsearch-website]: https://community.algolia.com/instantsearch.js/?utm_medium=social-owned&utm_source=GitHub&utm_campaign=InstantSearch%20repository
 [instantsearch-website-docs]: https://community.algolia.com/instantsearch.js/documentation/?utm_medium=social-owned&utm_source=GitHub&utm_campaign=InstantSearch%20repository
 
